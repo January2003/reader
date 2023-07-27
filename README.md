@@ -2,9 +2,9 @@
 
 阅读3服务器版，不需要手机。
 
-在线体验 👉 [https://reader.htmake.com](https://reader.htmake.com)
+在线体验 👉 <https://reader.htmake.com>
 
-加入TG群(限时开放) 👉 [https://t.me/+pQ8HDlANPZ84ZWNl](https://t.me/+pQ8HDlANPZ84ZWNl)
+加入TG群(限时开放) 👉 <https://t.me/+pQ8HDlANPZ84ZWNl>
 
 关注公众号，查看教程和书源👇
 
@@ -25,7 +25,8 @@
 </details>
 
 <details><summary>功能说明</summary>
-  书源管理 <br/>
+书源管理 <br/>
+
 - 书架管理 <br/>
 - 搜索 <br/>
 - 书海 <br/>
@@ -49,7 +50,7 @@
 - 定时更新书架 <br/>
 - 并发搜书 <br/>
 - 本地书仓 <br/>
-</details>
+  </details>
 
 ## 下载与安装
 
